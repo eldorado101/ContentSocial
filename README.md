@@ -1,3 +1,4 @@
+Developed by Dwight Bedsaul
 ContentSocial FAQ
 Welcome to ContentSocial ! This FAQ will help you navigate the platform, understand its features, and make the most of your experience. If you have any additional questions, feel free to reach out to our support team.
 
@@ -245,3 +246,14 @@ The GoLive button at the bottom of the screen is another option. You will need a
 We hope this FAQ helps you navigate ContentSocial with ease. If you have any questions or need further assistance, don’t hesitate to contact us at dakota@contentsocial.com or ContentSocial Group or Page.
 
 Happy networking!
+This is an apk file and can be sideloaded on android devices as I took down the app in Google Play Store until further notice. The app is also available on Amazon Marketplace for download (free)
+Written and developed by Dwight Bedsaul
+
+Other links of interest:
+
+https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/
+https://medium.com/@dwightbedsaul
+https://about.me/dbedsaul
+https://www.crunchbase.com/person/dwight-bedsaul
+https://dev.to/dwightbedsaul
+https://www.youtube.com/@dwightbedsaul
