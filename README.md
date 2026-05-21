@@ -252,8 +252,15 @@ Written and developed by Dwight Bedsaul
 Other links of interest:
 
 https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/
+
 https://medium.com/@dwightbedsaul
+
 https://about.me/dbedsaul
+
 https://www.crunchbase.com/person/dwight-bedsaul
+
 https://dev.to/dwightbedsaul
+
 https://www.youtube.com/@dwightbedsaul
+
+https://www.contentsocial.net/dwight-bedsaul/
