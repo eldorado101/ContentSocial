@@ -1,4 +1,4 @@
-Developed by Dwight Bedsaul
+Overview of ContentSocail Platfrom developed by Dwight Bedsaul
 ContentSocial FAQ
 Welcome to ContentSocial ! This FAQ will help you navigate the platform, understand its features, and make the most of your experience. If you have any additional questions, feel free to reach out to our support team.
 
