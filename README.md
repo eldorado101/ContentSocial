@@ -1,4 +1,12 @@
-Overview of ContentSocail Platfrom developed by Dwight Bedsaul
+   # Dwight Bedsaul
+   ### Senior WordPress Architect & Electronics Specialist
+   
+   Welcome to my GitHub! I am the founder of [ContentSocial](https://www.contentsocial.net/dwight-bedsaul/) and specialize in custom WordPress plugins, scalable web architecture, and audio engineering.
+   
+   🔗 **Connect with me:**
+   - Portfolio: [ContentSocial](https://www.contentsocial.net/dwight-bedsaul/)
+   - LinkedIn: [Dwight Bedsaul](https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/)
+   - Dev.to: [@dwightbedsaul](https://dev.to/dwightbedsaul)Overview of ContentSocail Platfrom developed by Dwight Bedsaul
 ContentSocial FAQ
 Welcome to ContentSocial ! This FAQ will help you navigate the platform, understand its features, and make the most of your experience. If you have any additional questions, feel free to reach out to our support team.
 
